@@ -1,0 +1,132 @@
+[
+    {
+        "model":"web.Categories",
+        "pk":1,
+        "fields":{
+            "title":"Breakfast"
+        }
+    },
+    {
+        "model":"web.Categories",
+        "pk":2,
+        "fields":{
+            "title":"Lunch"
+        }
+    },
+    {
+        "model":"web.Categories",
+        "pk":3,
+        "fields":{
+            "title":"Evening food"
+        }
+    },
+    {
+        "model":"web.Categories",
+        "pk":4,
+        "fields":{
+            "title":"Dinner"
+        }
+    },
+    {
+        "model":"web.Categories",
+        "pk":5,
+        "fields":{
+            "title":"Any time"
+        }
+    },
+    {
+        "model":"web.Categories",
+        "pk":6,
+        "fields":{
+            "title":"other"
+        }
+    },
+    {
+        "model":"web.Recipes",
+        "pk":1,
+        "fields":{
+            "title":"Dosa",
+            "description":"To make the batter, first the lentils and rice are soaked in water for 4 to 5 hours. They are then ground separately to a fine consistency. Then both the lentil batter and the rice batter are mixed with salt in a wide bowl or pan. This batter is then allowed to ferment overnight or for 8 to 9 hours. After the batter is fermented, it increases in volume, has a pleasant fermented aroma and a slightly sour taste. A well-fermented batter makes the best dosa. You will also see many tiny air-pockets in the batter. Making the batter and then fermenting it is such a joy that I always look forward to making fermented foods like dosa and Idli.",
+            "image":"rimages/dosa.jpg",
+            "user":1,
+            "category":"Breakfast"
+        }
+    },
+    {
+        "model":"web.Recipes",
+        "pk":2,
+        "fields":{
+            "title":"Sambar",
+            "description":"For making sambar, you have to start by cooking dal. I used toor dal in this recipe. But you can use half toor dal and half yellow moong dal. Wash toor dal in several changes of water. Take washed dal in a pressure cooker and cover with water. Add some turmeric powder and pressure cook for 3 to 4 whistle. Let the pressure release by itself. Open the cooker and mash the dal slightly using back of a spoon and set aside.Heat ghee or oil in a pot. Add in chopped onions, tomatoes and slit green chillies. You can add peeled whole shallots of taste and texture. Saute the onions and tomatoes for 2 minutes.Add in your chopped mixed vegetables. In this recipe for sambar I used pumpkin, potato, cucumber, carrots, raw mango, beans and brinjal. You can add whatever vegetables you have or prefer.Saute the vegetables for 3 to 4 minutes till the raw smell leaves from it.Cover the vegetables with water. You can add some salt to the vegetables. Bring it to a boil.Cover the pot with lid and cook on medium heat for 10 minutes till vegetables are almost cooked.Now you can see the vegetables are cooked completely.Once vegetables are cooked, add in the cooked toor dal.Add in the fresh sambar powder.Taste and adjust with salt, jaggery and tamarind pulp.Mix everything well and cook on medium heat for 5 minutes till the raw smell leaves from tamarind.For tempering sambar, heat ghee or oil. Add in mustard seeds, urad dal and cumin seeds. Let them sizzle for few seconds. Add in broken dry red chillies and mix well.Add a dash of asafoetida and curry leaves in hot oil and mix well.Pour the tempered spices into the sambar and mix well.This tempering adds so much flavour to the sambar.Add lots of finely chopped coriander leaves into the sambar and mix well. This coriander leaves adds so much aroma to the sambar.Mix coriander leaves into the sambar. Thats it sambar is ready.Serve sambar with idli, dosa, pongal, khichdi or rice.",
+            "image":"rimages/sambar.jpg",
+            "user":1,
+            "category":"Lunch"
+        }
+    },
+    {
+        "model":"web.Recipes",
+        "pk":3,
+        "fields":{
+            "title":"Chicken chilly",
+            "description":"To make this delicious recipe, begin with washing the chicken in some lukewarm water and rinse it again in cold water. Then take a large bowl and combine chicken, eggs, ginger-garlic paste and cornflour in it. Mix all the ingredients properly. You can also drizzle a little water to the batter to coat the chicken pieces evenly. Once done, refrigerate the chicken for 1-2 hours.After 1-2 hours, take out the marinade. Next, heat oil in a deep pan over a high flame. Carefully place the chicken pieces in the oil until cooked through. Remove and drain excess oil on absorbent paper. Meanwhile, heat 1 or 2 tbsps of oil in a separate pan over medium flame. Once the oil is sufficiently hot, add the onions and fry for 2-3 minutes till they turn translucent. Then add the capsicum and green chillies and mix well again. You can also add some dry roasted green chillies to accentuate the taste. Moreover, If you prefer the dish extra spicy, you can also add some vinegar-soaked green chillies to this recipe, as it adds to the taste and flavour. (optional).When the veggies are partially cooked, add soy sauce, vinegar, chicken and salt. Mix all the ingredients well and make sure that the chicken is well coated in the sauces. Keep stirring so that the chicken does not stick to the pan.Once done, remove and transfer the dish to a bowl. Garnish with the spring onions and roasted sesame seeds (optional) and serve it to your family and friends. We are sure your loved ones will love this awesome recipe. Do try it, rate it and leave a comment in the section below.",
+            "image":"rimages/chicken_chilly.jpg",
+            "user":1,
+            "category":"Any time"
+        }
+    },
+    {
+        "model":"web.Recipes",
+        "pk":4,
+        "fields":{
+            "title":"Chicken biriyani",
+            "description":"To make a delightful chicken biryani dish, firstly soak saffron in water to prepare saffron water (one tsp saffron can be soaked in 1/4 cup water). Next, mix kewra drops in water and mix well to make kewra water. Set them aside for later usage. Now, chop the onion and coriander leaves and keep them aside.Meanwhile, heat olive oil in a deep bottomed pan. Once the oil is hot enough, add cumin seeds, bay leaf, green cardamom, black cardamom, cloves in it, and saute for about a minute. Then, add chopped onion to it and saute until pink. Now, add chicken into it with slit green chillies, turmeric, salt to taste, ginger-garlic paste, red chilli powder and green chilli paste. Mix well all the spices and cook for 2-3 minutes. Then, add hung curd into it and give a mix. (Make sure the chicken is washed properly and patted dry before adding it to the dish).Turn the flame to medium again and add garam masala in it along with ginger julienned, coriander and mint leaves. Add kewra water, rose water and 1 tsp saffron water in it. Cook till the chicken is tender. Then add 1 cup cooked rice and spread evenly. Then add the remaining saffron water and pour ghee over it. You can now cook the dish without the lid or cover it with a lid to give a dum-effect due to the steam formation.Cook for 15-20 minutes with a closed lid and garnish with 1 tbsp fried onions and coriander leaves. Serve hot chicken biryani with raita of your choice. Enjoy!",
+            "image":"rimages/chicken_biriyani.jpg",
+            "user":1,
+            "category":"Lunch"
+        }
+    },
+    {
+        "model":"web.Recipes",
+        "pk":5,
+        "fields":{
+            "title":"Idli",
+            "description":"To prepare this popular South Indian recipe, wash rice and urad dal separately until the water runs clean and add fenugreek seeds to the rice. Soak it in water for 4-6 hours. Soak the urad dal too for the same amount of time. Drain all the water from the urad dal and grind it to a fine paste. Add water accordingly. Grind the rice to a coarse paste (add water as needed) and then mix both the pastes together in a large bowl and whisk them well. Make sure that the consistency is thick.Now, the idli batter needs to be well-fermented. This step is very important to get soft and fluffy idlis. Keep the batter in a warm place to ferment. Once the batter has risen, add salt to it and whisk to mix it well.Grease the idli stand with oil and take a ladleful of batter and fill the idli mould. Add ½ cup of water in the idli steamer and let it boil. Put the idli stand inside and close the lid. Let the steam build for 8-10 minutes before switching off the gas.If you are using a cooker, use it without a vent and steam it for 10 minutes and then switch the gas off. In both cases, wait till the steam is released before you take the idli stand out. Wait for another 5 minutes and then use a sharp knife to scoop the idlis out. Serve warm with coconut chutney and sambhar.",
+            "image":"rimages/idili.jpg",
+            "user":1,
+            "category":"Breakfast"
+        }
+    },
+    {
+        "model":"web.Recipes",
+        "pk":6,
+        "fields":{
+            "title":"Bread Toast",
+            "description":"Beat the eggs, milk and sugar in a large bowl till the sugar dissolves in the mixture.Soak the bread slices one by one in the mixture and coat them well.Place a frypan over medium flame and add butter in it. Once the butter melts, put a soaked bread slice and fry it for a minute.Flip and fry the other side of the bread slice. Repeat the process for all the bread slices. You can garnish the Sweet Bread Toast with maple syrup. Serve hot.",
+            "image":"rimages/bread_roast.jpg",
+            "user":1,
+            "category":"Dinner"
+        }
+    },
+    {
+        "model":"web.Recipes",
+        "pk":7,
+        "fields":{
+            "title":"Parotta",
+            "description":"Mix in the maida (all purpose flour), salt, sugar, oil and water to form a soft dough.Knead the dough for five minutes by hand. Cover the dough with a cloth. Rest the dough for 2 hours.After the rest, form dough balls and rest the dough balls for five more minutes. The gluten in the dough needs to relax each time we handle the dough. Else the dough will not spread at all. It will be stiff. That is the reason we rest the dough briefly at every stage from now on. Take the dough ball and flatten it and roll it into a small disk. Sprinkle some oil if need be.DO NOT sprinkle lot of oil when rolling as it will become slippery and difficult to roll. Very lightly apply oil.Transfer the rolled disks to a plate and apply oil on top of each rolled disk. Keep stacking the rolled disk, one on top of the other and keep applying oil on top of each disk. This is a very important step. Be liberal with the oil. Rest the disks on the plate for 20 minutes. The rolled disks are marinating in the oil and this will help in loosening the dough and it will be a breeze to spread later.Take a dough disk and place it on a flat surface. Gently pull the sides of the disks to form a large circle. It should effortlessly spread.Gently gather the dough in one corner and make a spiral. Repeat with all the dough disks. Rest the spirals for five minutes.Gently pat the spiraled dough with hand and spread the dough for 2-3 inches.Heat a dosa tawa and place the parottas on the tawa. Cook a minute on each side. Then apply a teaspoon of oil for each parotta and cook for a couple of more minutes on low flame.The dough needs to cook on a low flame so the inner part of the parotta also gets cooked evenly. When the parotta is golden, remove from heat.Fluff up the parotta by gently tapping the sides of the parotta (like clapping hands with parotta in the middle).Serve with chicken curry or mutton kuzhambu.",
+            "image":"rimages/porota.jpg",
+            "user":1,
+            "category":"Evening food"
+        }
+    },
+    {
+        "model":"web.Recipes",
+        "pk":8,
+        "fields":{
+            "title":"Salad",
+            "description":"Peel the cucumber and wash in normal water along with the tomato.Cut the beet root, tomato and cucumber into rings.Sprinkle some salt and chaat masala.Serve this nutritional salad with any meal.",
+            "image":"rimages/salad.jpg",
+            "user":1,
+            "category":"other"
+        }
+    }
+]
