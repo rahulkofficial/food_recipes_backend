@@ -58,10 +58,10 @@ MIDDLEWARE = [
     'corsheaders.middleware.CorsMiddleware',
 ]
 
-CORS_ALLOWED_ORIGINS = [
-    ["*"],
-]
-
+# CORS_ALLOWED_ORIGINS = [
+#     ["*"],
+# ]
+CORS_ORIGIN_ALLOW_ALL=True
 
 ROOT_URLCONF = 'food_recipes.urls'
 
