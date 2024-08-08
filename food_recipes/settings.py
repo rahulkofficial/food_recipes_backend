@@ -76,6 +76,11 @@ CORS_ALLOW_METHODS = (
     "PUT",
 )
 
+CORS_ALLOW_CREDENTIALS = True
+CORS_ALLOWED_HEADERS = [
+    'content-type',
+]
+
 ROOT_URLCONF = 'food_recipes.urls'
 
 TEMPLATES = [
