@@ -41,7 +41,7 @@ def create(request):
         url=protocol+host+"/api/v1/auth/token/"
         response=requests.post(url,headers=headers,data=json.dumps(data))
 
-        if response.status_code==200:
+        if response:
             response_data={
                 "status":6000,
                 "data":response.json(),
