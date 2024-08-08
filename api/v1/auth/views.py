@@ -39,7 +39,8 @@ def create(request):
         host=request.get_host()
 
         url=protocol+host+"/api/v1/auth/token/"
-        response=requests.post(url,headers=headers,data=data)
+        response=requests.post(url,headers=headers,data=json.dumps(data))
+
         if response.status_code==200:
             response_data={
                 "status":6000,
